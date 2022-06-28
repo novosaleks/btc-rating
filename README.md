@@ -69,7 +69,7 @@ ___
 ## BtcRate
 
 ```http
-GET /btcRate
+GET /btc-rate
 ```
 
 ### Responses
